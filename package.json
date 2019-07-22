@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "asynct": "*",
-    "event-stream": "~3.0.2",
+    "event-stream": "~3.3.4",
     "it-is": "1",
     "stream-spec": "~0.2",
     "ubelt": "~2.9",
